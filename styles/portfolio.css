@@ -1,0 +1,31 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background{background-image: url('../resources/Banner\ Image.png');
+    color: ;
+width: 84%;
+align-items: center;
+max-width: 1320px;
+margin: 0 auto;
+background-repeat: no-repeat;
+}
+.background-color{border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); position: relative;
+}
+
+  header { color: #FFF;
+text-align: center;
+font-family: 'Merriweather', serif;
+
+
+} 
+#newyear {font-size: 32px;padding-top: 177px;font-size: 32px;
+   
+    font-weight: 400;
+    ;} 
+#celebration-title {font-size: 72px; padding-bottom: 177px;font-size: 72px;
+     font-weight: 900;
+    }         
