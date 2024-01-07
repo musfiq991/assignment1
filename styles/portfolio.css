@@ -1,31 +1,79 @@
-
-body{
+body {
     margin: 0px;
     padding: 0px;
+
 }
 
-.background{background-image: url('../resources/Banner\ Image.png');
-    color: ;
-width: 84%;
-align-items: center;
-max-width: 1320px;
-margin: 0 auto;
-background-repeat: no-repeat;
-}
-.background-color{border-radius: 16px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); position: relative;
+.font-family-inter {
+    font-family: 'Inter', sans-serif;
 }
 
-  header { color: #FFF;
-text-align: center;
-font-family: 'Merriweather', serif;
+.font-family-merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.background {
+    background-image: url('../resources/Banner\ Image.png');
+    width: 84%;
+    margin: 0 auto;
+    max-width: 1320px;
+
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.background-color {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    position: relative;
+}
+
+header {
+    color: #FFF;
+    text-align: center;
 
 
-} 
-#newyear {font-size: 32px;padding-top: 177px;font-size: 32px;
-   
+
+}
+
+#newyear {
+    font-size: 32px;
+    padding-top: 177px;
+    font-size: 32px;
+
     font-weight: 400;
-    ;} 
-#celebration-title {font-size: 72px; padding-bottom: 177px;font-size: 72px;
-     font-weight: 900;
-    }         
+    ;
+}
+
+#celebration-title {
+    font-size: 72px;
+    padding-bottom: 177px;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.red {
+    color: #FF0000;
+}
+
+.black {
+    color: #070211;
+}
+.s1-text-container{text-align: center;}
+#s1-offer {
+margin-top: 120px;
+margin-bottom: 48px;
+font-size: 88px;
+font-weight: 700;
+}
+#holiday-deals{font-size: 24px;
+    font-weight: 500;}
+#categaries{font-size: 48px;
+   
+    font-weight: 700;
+margin-top: 15px;
+margin-bottom: 48px;}
+    #new-year-photo {width: 49%;
+        margin: 0 auto;
+        max-width: 802px;
+    }
