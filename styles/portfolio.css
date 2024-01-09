@@ -159,6 +159,7 @@ header {
 
 .s3container {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 16px;
     width: 84%;
     margin: 0 auto;
     max-width: 1320px;
@@ -280,11 +281,11 @@ button {
     flex-grow: 1;
     border-radius: 50px 0px 0px 50px;
     border: none;
-    padding: 30px; 
-color: rgba(7, 2, 17, 0.30);
-font-family: 'Inter', sans-serif;
-font-size: 18px;
-font-weight: 400;
+    padding: 30px;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
 
 }
 
