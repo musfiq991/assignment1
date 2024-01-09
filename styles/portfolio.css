@@ -154,6 +154,7 @@ header {
 
 #s3 {
     padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .s3container {
@@ -173,7 +174,8 @@ header {
     padding-top: 48px;
 }
 
-button {cursor: pointer;
+button {
+    cursor: pointer;
     border: none;
     font-size: 20px;
     font-weight: 700;
@@ -186,4 +188,44 @@ button {cursor: pointer;
     border-radius: 8px;
     background: #F00;
     color: #FFF;
+}
+
+.s4-container {
+    display: flex;
+    width: 84%;
+    margin: 0 auto;
+    max-width: 1320px;
+    justify-content: space-around;
+    padding-bottom: 120px;
+}
+
+.s4deal {
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 104px;
+}
+
+.comming-soon {
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+}
+
+.s4title-detals {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#img-cborder {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 49px;
+}
+
+.s4new-year {
+    padding-top: 112px;
+    font-size: 48px;
+    font-weight: 700;
 }
