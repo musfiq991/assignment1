@@ -8,7 +8,7 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.font-family-merriweather {
+.font-family-merriweather .header-title{
     font-family: 'Merriweather', serif;
 }
 
@@ -154,7 +154,7 @@ header {
 
 #s3 {
     padding-top: 120px;
-    padding-bottom: 120px;
+    padding-bottom: 170px;
 }
 
 .s3container {
@@ -199,19 +199,19 @@ button {
     padding-bottom: 120px;
 }
 
-.s4deal {
+.deal {
     font-size: 24px;
     font-weight: 500;
     padding-top: 104px;
 }
 
-.comming-soon {
+.header-title {
     font-size: 48px;
     font-weight: 900;
     font-family: 'Merriweather', serif;
 }
 
-.s4title-detals {
+.title-detals {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
@@ -229,3 +229,19 @@ button {
     font-size: 48px;
     font-weight: 700;
 }
+.s5-container{
+    width: 84%;
+    margin: 0 auto;
+    max-width: 1320px;
+    padding-bottom: 120px;}
+    .gift-pic{display: flex;
+        justify-content: space-between;
+        border-radius: 16px;
+     cursor: pointer; 
+     max-width:424px ;
+     max-height: 450px;
+     column-gap: 24px;
+    padding-top: 48px;
+padding-bottom: 120px;}
+.gap-between-pic{padding-bottom: 24px;}
+
